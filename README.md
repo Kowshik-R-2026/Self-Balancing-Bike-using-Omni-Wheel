@@ -5,3 +5,4 @@ Softwares used:
 2. CoppeliaSim (Physics Simulation Software)
 3. Arduino IDE
 4. Fusion 360 (modelling)
+5. Matlab / Octave (Mathematical Formulas for LQR and PID Controller)
