@@ -1,41 +1,5 @@
-1;
-
 pkg load control;
 pkg load symbolic;
-
-##**************************************************************************
-##*                OCTAVE PROGRAMMING (e-Yantra)
-##*                ====================================
-##*  This software is intended to teach Octave Programming and Mathematical
-##*  Modeling concepts
-##*  Theme: Lunar Scout
-##*  Filename: Task_1A.m
-##*  Version: 1.0.0  
-##*  Date: 18/09/2023
-##*
-##*  Team ID :
-##*  Team Leader Name:
-##*  Team Member Name
-##*
-##*  
-##*  Author: e-Yantra Project, Department of Computer Science
-##*  and Engineering, Indian Institute of Technology Bombay.
-##*  
-##*  Software released under Creative Commons CC BY-NC-SA
-##*
-##*  For legal information refer to:
-##*        http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode 
-##*     
-##*
-##*  This software is made available on an �AS IS WHERE IS BASIS�. 
-##*  Licensee/end user indemnifies and will keep e-Yantra indemnified from
-##*  any and all claim(s) that emanate from the use of the Software or 
-##*  breach of the terms of this agreement.
-##*  
-##*  e-Yantra - An MHRD project under National Mission on Education using 
-##*  ICT(NMEICT)
-##*
-##**************************************************************************
 
 ## Function : Jacobian_A_B()
 ## ----------------------------------------------------
